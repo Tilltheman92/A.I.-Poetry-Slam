@@ -1,0 +1,2 @@
+For the last Net I used Runway ML to train a GPT-2 model (pretrained in english) on the same Input Data as the other Models.
+I used minimal memory for the pretrained part.
